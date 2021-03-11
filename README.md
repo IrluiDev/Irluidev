@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 I'm here for to learn and to do for the comunity.
-- 🔭 I’m currently working on React, Nodejs, Frontity, Wordpress and others.
+- 🔭 I’m currently working on Html, CSS, Javascript, Bootstrap, React, Nodejs, Frontity, Wordpress and others.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on page web, ecoommerce, design, business.
 - 🤔 I’m looking for help with React.
