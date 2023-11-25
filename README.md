@@ -1,10 +1,9 @@
 ### Hi everyone 👋
 
 I'm here for to learn and to do for the comunity.
-- 🔭 I’m currently working on Html, CSS, Javascript, Bootstrap, React, Nodejs, Frontity, Wordpress and others.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on page web, ecoommerce, design, business.
-- 🤔 I’m looking for help with React.
+- 🔭 I’m currently working on Big Data, Python and Machine Learning.
+- 🌱 I’m currently learning Big Data and IA.
+- 👯 I’m looking to collaborate on Data Analisys, Data Cience or Business Intelligence.
 
 
 <!--
