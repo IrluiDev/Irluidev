@@ -4,6 +4,7 @@ I'm here for to learn and to do for the comunity.
 - 🔭 I’m currently working on Big Data, Python and Machine Learning.
 - 🌱 I’m currently learning Big Data and IA.
 - 👯 I’m looking to collaborate on Data Analisys, Data Cience or Business Intelligence.
+- ✨🤔I am currently a software developer and collaborator at OCA Odoo Spain.
 
 
 <!--
